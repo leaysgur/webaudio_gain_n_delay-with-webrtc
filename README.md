@@ -9,3 +9,5 @@ getUserMedia -> (stream)
                                                                        ↓
                      HTMLAudioElement <- RTCPeerConnection <-> RTCPeerConnection
 ```
+
+Tested only on Chrome(M85)
